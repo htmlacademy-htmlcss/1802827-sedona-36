@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anti Anti](https://up.htmlacademy.ru/htmlcss/36/user/1802827).
-* Наставник: `Неизвестно`.
+* Наставник: `Антон Варнавский`.(https://htmlacademy.ru/profile/id223468)
 
 ---
 
